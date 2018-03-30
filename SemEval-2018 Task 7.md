@@ -18,3 +18,7 @@
 - Precision: percentage of relation instances that were correctly connected, with a correct directionality and a correct label assignment. Erroneously extracted instances which are not in the gold standard, instances labeled with ANY,  and instances with a wrong directionality are considered as wrong predictions.
 - Recall: percentage of relation instances belonging to a specific relation in the gold standard that were found, with a correct directionality and correct label assignment.
 - F-measure (β=1): harmonic mean of previous precision and recall
+## 数据情况training data
+- USAGE, RESULT, MODEL, PART_WHOLE, TOPIC, COMPARISON.
+- 一共六种关系
+- task1.1有1229实体对,task1.2有1249实体对,task2训练集与1.1一致
