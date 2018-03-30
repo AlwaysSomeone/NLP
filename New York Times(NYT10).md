@@ -1,0 +1,3 @@
+- There are 53 possible relationships including a special relation NA which indicates there is no relation between head and tail entities.
+- The training data contains 522,611 sentences, 281,270 entity pairs and 18,252 relational facts.
+-  The testing set contains 172,448 sentences, 96,678 entity pairs and 1,950 relational facts.
